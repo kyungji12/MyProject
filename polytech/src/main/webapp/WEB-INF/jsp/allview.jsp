@@ -24,7 +24,7 @@
 		} else { //취소
 			return false;
 		}
-	}
+	}//취소
 </script>
 </head>
 <body>
